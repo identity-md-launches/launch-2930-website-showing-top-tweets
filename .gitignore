@@ -1,0 +1,9 @@
+# Path budget: 256 bytes. Generated directories only; dist stays included.
+node_modules/
+.cache/
+.npm/
+.pnpm-store/
+.vite/
+.playwright-mcp/
+__pycache__/
+/test/scratch/
